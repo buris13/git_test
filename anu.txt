@@ -1,0 +1,8 @@
+sudo apt install cmake pkg-config build-essential \
+libwayland-dev wayland-protocols libxkbcommon-dev libpixman-1-dev \
+libpango1.0-dev libcairo2-dev libdrm-dev libgbm-dev libinput-dev \
+libxcursor-dev libuuid1 uuid-dev libre2-dev libegl1-mesa-dev \
+libgles2-mesa-dev libgio2.0-cil-dev libxcb-composite0-dev \
+libxcb-icccm4-dev libxcb-render0-dev libxcb-res0-dev \
+libxcb-xfixes0-dev libxcb-errors0-dev libx11-xcb-dev \
+libsystemd-dev
