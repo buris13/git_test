@@ -1,0 +1,3 @@
+sudo apt install rofi kitty waybar swww grim slurp wl-clipboard \
+#xdg-desktop-portal-hyprland xdg-desktop-portal-wlr \
+#wireplumber brightnessctl
